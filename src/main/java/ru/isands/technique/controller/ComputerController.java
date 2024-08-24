@@ -1,8 +1,7 @@
 package ru.isands.technique.controller;
 
-import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RestController;
-import ru.isands.technique.entity.Model;
+
 import ru.isands.technique.service.ComputerService;
 
 @RestController
