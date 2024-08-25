@@ -1,3 +1,11 @@
+# Требования к проекту
+
+
+    • Язык программирования: Java 8;
+    • Frameworks: Spring Boot Starter, Spring Web, Spring JPA, Spring Hibernate;
+    • База данных: Postgres SQL;
+    • Библиотека для генерации документации: springdoc-openapi v1.5.9
+
 
 # Задание
 
